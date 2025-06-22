@@ -4,7 +4,7 @@
 Due to size constraints, the following files are hosted on Google Drive:  
 
 - **Model**: [Download (.h5/.pkl)]([https://drive.google.com/...](https://drive.google.com/drive/folders/1u3QGSWKcmVPXVCMi91YZUwmv1BtxSTar?usp=sharing))  
-- **Dataset**: [Download (.csv/.zip)]([https://drive.google.com/...](https://drive.google.com/drive/folders/1u3QGSWKcmVPXVCMi91YZUwmv1BtxSTar?usp=sharing)))  
+- **Dataset**: [Download (.csv/.zip)]([https://drive.google.com/...](https://drive.google.com/drive/folders/1u3QGSWKcmVPXVCMi91YZUwmv1BtxSTar?usp=sharing))  
 - **Vectorizer**: [Download (.pkl)]([https://drive.google.com/...](https://drive.google.com/drive/folders/1u3QGSWKcmVPXVCMi91YZUwmv1BtxSTar?usp=sharing))  
 
 *Note: Ensure all files are placed in the project's `data/` directory after download.*  
